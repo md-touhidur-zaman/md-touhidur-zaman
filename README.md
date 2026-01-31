@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Md Touhidur Zaman, a full-time full-stack web developer 👨‍💻 working in this field since 2022 🚀</div>  
+### <div align="center">I'm Md Touhidur Zaman, a full-stack web developer speacilizing in React, Next Js, Typescript and scalable backend system. 👨‍💻 working in this field since 2022 🚀</div>  
   
 
 
@@ -26,6 +26,8 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+<br/>  
 
 
 ## My Skill Set  
